@@ -9,7 +9,7 @@
 	height: 100vh;
 	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Img/background.jpg);
 	background-size: cover;
-	background-position: right;
+	background-position: center;
 }
 
 .navbar{
