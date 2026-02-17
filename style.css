@@ -1,15 +1,7 @@
 /*
 Comments:
 
-
-
-
-
 */
-
-
-
-
 
 *{
 	margin: 0;
@@ -121,6 +113,7 @@ button:hover span{
 button:hover{
 	border: none;
 }
+
 
 
 
